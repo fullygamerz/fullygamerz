@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hey there!<br>Upcoming Projects are aboard! Be prepared cuz its gonna be crazy<br><br>Some of my upcoming projects -<br>           • Axon Bot - A fully OpenSource Windows AI Agent, A Better and modern continuation of my previous jarvis models<br>           • Lighten - Unknown.MD
+Hey there!<br>Upcoming Projects are aboard! Be prepared cuz its gonna be crazy<br><br>Some of my upcoming projects -<br>           • Axon Agent - A fully OpenSource Windows AI Agent, A Better and modern continuation of my previous jarvis models<br>           • Lighten - Unknown.MD
 
 
 ## 🌐 Socials:
